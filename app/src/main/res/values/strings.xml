@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">second</string>
+    <string name="phone">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="radio_btn">Remember me</string>
+    <string name="text">Forget Password?</string>
+    <string name="login_btn">Login</string>
+    <string name="sign">Sign Up</string>
+</resources>
